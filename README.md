@@ -2,7 +2,7 @@
 
 Instructions:
 
-- Download Jupyter Notebook 'MNIST ' 
+- Download Jupyter Notebook 'MNIST Classification' 
 - Upload the .ipynb file in your Jupyter Notebook.
 - Restart the kernel to avoid any problem
 - Run All Cells
