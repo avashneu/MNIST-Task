@@ -2,7 +2,7 @@
 
 Instructions:
 
-- Download Jupyter Notebook 'Assignment1_Q0.4_part_3.ipynb' 
+- Download Jupyter Notebook 'MNIST_Task' 
 - Upload the .ipynb file in your Jupyter Notebook.
 - Restart the kernel to avoid any problem
 - Run All Cells
