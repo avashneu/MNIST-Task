@@ -1,8 +1,8 @@
-# MNIST-Task
+# MNIST-Classification-Task
 
 Instructions:
 
-- Download Jupyter Notebook 'MNIST_Task' 
+- Download Jupyter Notebook 'MNIST ' 
 - Upload the .ipynb file in your Jupyter Notebook.
 - Restart the kernel to avoid any problem
 - Run All Cells
