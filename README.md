@@ -6,6 +6,7 @@ Instructions:
 - Upload the .ipynb file in your Jupyter Notebook.
 - Restart the kernel to avoid any problem
 - Run All Cells
+
 OR
 - Open in Binder
 - https://mybinder.org/v2/git/https%3A%2F%2Fgithub.com%2Favashneu%2FMNIST-Task/72f65e551a42b938c8072bb9f944d7ab17f09779?urlpath=lab%2Ftree%2FMNIST%20Classification.ipynb
